@@ -1,3 +1,0 @@
-# SnakeLike
-
-Test
